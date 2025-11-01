@@ -2,6 +2,12 @@
 
 A high-performance React application designed to handle and display 1 million customer records with smooth scrolling, search, and sorting capabilities.
 
+## Live Demo
+
+**[View Live Application](https://doubletick-customers-oa.vercel.app/)**
+
+Experience the app in action with full functionality including virtual scrolling, search, sorting, and jump-to-row navigation.
+
 ## Features
 
 ### Core Functionality
@@ -77,7 +83,6 @@ A high-performance React application designed to handle and display 1 million cu
 
 ```
 doubletick-customers/
-├── public/
 ├── src/
 │   ├── components/
 │   │   ├── CustomerTable.jsx      # Main table component
@@ -273,7 +278,6 @@ Requires:
 ### Deploy to GitHub Pages
 
 1. Install gh-pages:
-   
 ```bash
 npm install --save-dev gh-pages
 ```
@@ -285,7 +289,7 @@ npm install --save-dev gh-pages
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "vhttps://github.com/THANU3SREE/Doubletick-Customers-OA"
+  "homepage": "https://<username>.github.io/<repo-name>"
 }
 ```
 
@@ -380,3 +384,16 @@ This project is provided as-is for demonstration purposes.
 ## Support
 
 For issues or questions, please open an issue in the repository.
+
+## Contact
+
+For inquiries, collaborations, or support:
+
+- GitHub: [@THANU3SREE](https://github.com/THANU3SREE)
+- Email: b22ai011@iitj.ac.in
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/thanu-sree-avula)
+- Project Link: [https://github.com/THANU3SREE/Doubletick-Customer-List-OA](https://github.com/THANU3SREE/Doubletick-Customer-List-OA)
+
+---
+
+Built with love by [THANU3SREE](https://github.com/THANU3SREE)
