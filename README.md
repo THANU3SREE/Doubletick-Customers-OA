@@ -391,8 +391,8 @@ For inquiries, collaborations, or support:
 
 - GitHub: [@THANU3SREE](https://github.com/THANU3SREE)
 - Email: b22ai011@iitj.ac.in
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/thanu-sree-avula)
-- Project Link: [https://github.com/THANU3SREE/Doubletick-Customer-List-OA](https://github.com/THANU3SREE/Doubletick-Customer-List-OA)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/thanu-sree-avula)
+- Project Link: [https://github.com/THANU3SREE/Doubletick-Customer-List-OA](https://github.com/THANU3SREE/Doubletick-Customers-OA)
 
 ---
 
