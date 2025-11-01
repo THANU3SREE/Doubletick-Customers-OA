@@ -77,6 +77,7 @@ A high-performance React application designed to handle and display 1 million cu
 
 ```
 doubletick-customers/
+├── public/
 ├── src/
 │   ├── components/
 │   │   ├── CustomerTable.jsx      # Main table component
@@ -272,6 +273,7 @@ Requires:
 ### Deploy to GitHub Pages
 
 1. Install gh-pages:
+   
 ```bash
 npm install --save-dev gh-pages
 ```
@@ -283,7 +285,7 @@ npm install --save-dev gh-pages
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://<username>.github.io/<repo-name>"
+  "homepage": "vhttps://github.com/THANU3SREE/Doubletick-Customers-OA"
 }
 ```
 
